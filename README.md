@@ -1,1 +1,2 @@
 # Sweet-Cat
+sddm tema
